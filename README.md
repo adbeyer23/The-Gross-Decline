@@ -5,3 +5,6 @@ In this project, I built a linear regression and gradient boosted tree models to
 
 My data came from scraping 5500 pages of movie data, with Scrapy, from BoxOfficeMojo.com, and adding in user rating and critic data from OMDB API.
 
+
+Check out my blog for a write-up of this project: [blog](https://adbeyer23.github.io/Predicting-Week-2-Box-Office-Performance/
+)
